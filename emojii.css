@@ -1,0 +1,41 @@
+.Duck{
+    width: 110px; height: 110px;
+  position: relative;
+     margin: auto;
+      margin-top:50px; margin-left: 650px;
+}
+.Duck-top{
+ position: relative;
+  width: 75px; height: 85px; 
+  background: yellow;
+  border-radius:100px 100px 80px 80px;
+  margin-left: 7px; top: 305px;
+  
+}
+.Duck-bottom{
+
+  width: 125px; height: 70px; 
+  background: yellow;
+  border-radius:  20px 40px 40px 85px;
+   margin-top:300px; margin-left:-60px;
+}
+.eye1{
+  position: relative;
+  width:10px; height:10px;
+  background-color: black;
+  border-radius: 60px 60px 60px 60px;
+  margin-left: 55px; top:28px;
+}
+.mouth{
+  position: relative;
+  width: 18px; height: 15px;
+  border-radius: 5px 15px 15px 5px;
+  background-color: orange;
+  margin-left: 73px;  top: 33px;
+}
+
+.image{
+  text-align: center;
+      padding: 100px;
+      margin-top: -160px;
+}
